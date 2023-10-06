@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0>
+<title>Document </title>
+</head>
+<body>
+<script>
+let rows=10;
+let cols=10;
+document.writer("<table border=1>");
+for(let a=o;a<rows;a++)
+ { document.write("<tr>");
+document.write("co-"+(a=1));
+
+  for(let b=0;b<bcols;b++)
+     document.write("<td> R-" +(a+1))+"</td>");
+ }
+ document.write("<tr>");
+    }
+    document.write("</table>")
+    </script>
+    </body>
+    </html>
